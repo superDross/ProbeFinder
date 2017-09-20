@@ -1,2 +1,2 @@
 # ProbeFinder
-Get the chromosome, position and strand of specific probes in the EPIC methylation arrays probe database
+Retrieves the chromosome, position and strand of given probes in the EPIC methylation arrays probe database and subsequently converts positions to hg38.
